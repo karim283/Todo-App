@@ -33,7 +33,7 @@ export default function Todo() {
               handleAddTodo();
             }
           }}
-          className="rounded-[6px] w-[18rem] md:w-[50.33vw] h-14 bg-[#262626] border-[1px] border-[#000000] text-white text-2xl p-4 text-[16px] text-[#808080]]"
+          className="rounded-[6px] w-[16rem] md:w-[50.33vw] h-14 bg-[#262626] border-[1px] border-[#000000] text-white text-2xl p-4 text-[16px] text-[#808080]]"
         />
         <button
           onClick={handleAddTodo}
